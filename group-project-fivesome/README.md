@@ -1,17 +1,3 @@
-## Requirements for Group Project
-
-[Read the instruction](https://github.com/STIW3054-A221/class-activity-soc/blob/main/GroupProject.md)
-
-## Group Info:
-
-|                                                              Photo                                                              |                             Info                              |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-|                                 <img src="images/Member Photo/Gambar Pelajar.jpg" height="200">                                 | **Leader**<br/><br/>Thong Wei Yong<br/>279932<br/>017-4532196 |
-|                               <img src="images/Member Photo/H'ng Zi Ling 281895.png" width="150">                               |           H'ng Zi Ling<br/>281895<br/>012-4413822             |
-|                              <img src="images/Member Photo/WONG SEOW TING 278263.jpg" width="150">                              |           Wong Seow Ting<br/>278263<br/>016-6781186           |
-|  <img src="https://user-images.githubusercontent.com/93357404/198525548-08bd01a4-30d4-404c-b247-71c231b8d27b.JPG" width="150">  |            Chow Sook Qi<br/>279079<br/>014-6003250            |
-| <img src="https://user-images.githubusercontent.com/104199648/201666066-66e34779-9633-4bb3-b042-5421505182b7.jpg" width="150">  |          Leong Chun Loon<br/>278884<br/>016-6470751           |
-
 ## Title of your application
 
 Telegram Bot -STIW3054_Fivesome_bot
@@ -30,8 +16,6 @@ booking info and the user can cancel the booking.
 ## Flow Diagram of the requirements
 
 ![FlowDiagram drawio](https://user-images.githubusercontent.com/104199648/210704471-da687abb-3bc8-476e-8fa4-9207b1b518da.png)
-
-## User manual for installing your application on Heroku Server
 
 ## User manual/guideline for testing the system
 
@@ -149,10 +133,6 @@ School admin check application status
 ## Database Design
 
 <img src="images/databaseDesign.png" width="800">
-
-## Youtube Presentation
-
-https://youtu.be/nlqMT8U-GG8
 
 ## References (Not less than 20)
 
