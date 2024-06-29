@@ -1,7 +1,3 @@
-## Your Info:
-1. Matric Number: 281895
-1. Name: H'ng Zi Ling
-
 ## Instruction:
 
 1. Watch the video below:
