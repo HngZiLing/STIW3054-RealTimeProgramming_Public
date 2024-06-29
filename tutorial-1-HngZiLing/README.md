@@ -1,3 +1,10 @@
+## Instruction
+1. Do not modify the structure of this repository.
+1. All source codes must be uploaded to this GitHub repository.
+1. Video --> [IntelliJ IDEA | How to clone, add, commit and push a repository to GitHub easily](https://youtu.be/RXV3Yusr0SI)
+1. All images must be included in `images` folder.
+1. The screenshot of result/output must be displayed at your `Readme.md`.
+
 ## Question-1
 
 Write a Java program to calculate the area of triangle. The area is calculated based on the width and height input by a user (from keyboard).
