@@ -1,11 +1,3 @@
-## Requirements for Assignment-2
-[Read the instruction](https://github.com/STIW3054-A221/class-activity-soc/blob/main/Assignment-2.md)
-
-## Your Info:
-|                         My Photo                         | My Info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|:--------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="images/H'ng Zi Ling 281895.png" width='200px'> | Hello 👋🏻 <br/> I'm **H'ng Zi Ling**, matric number **281895** <br/> <br/>  ⇨ 23 years old<br/>⇨ School of Computing, Universiti Utara Malaysia<br/>⇨ Bachelor of Science with Honours (Information Technology)<br/>⇨ Majoring in Software Engineering<br/> ⇨ Semester 5 (A221) <br/><br/>You can contact me at 📞**012-4413822**<br/>[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60124413822) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hngziling@gmail.com) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HngZiLing) |
-
 ## Introduction
 
 TelegramBot is a robot that can reply automatically. In this assignment, **s281895_A221_bot** is a robot that can
@@ -29,35 +21,9 @@ application and will be easier to refer manage.
 
 <img src="images/bot_flowDiagram.png" width='1000px'>
 
-## Result/Output (Screenshot of the output)
-
-Option 1 : /Start
-
-<img src="images/start.png" width='400px'>
-
-Option 2: /booking
-
-<img src="images/booking1.png" height='500px'> <img src="images/booking2.png" width='400px'> <img src="images/booking3.png" height='500px'>
-
-Option 3: /list
-
-<img src="images/list.png" height='500px'>
-
-Option 4: /cancel
-
-<img src="images/cancel1.png" height='500px'> <img src="images/cancel2.png" height='500px'>
-
 ## UML Class Diagram
 
 <img src="images/umlDiagram.png" width='400px'>
-
-## Database design
-
-![tbl_user](images/tbl_user.png)
-![tbl_room](images/tbl_room.png)
-
-## Youtube Presentation
-https://youtu.be/hsoYt8kQoyY
 
 ## References (Not less than 10)
 
