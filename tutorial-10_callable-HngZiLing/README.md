@@ -1,7 +1,3 @@
-## Your Info:
-1. Matric Number: 281895
-1. Name: H'ng Zi Ling
-
 ## Instruction:
 
 1. Attached in this repo is the `RossBeresford.txt`. Write a Java program to count and display matching words from the `RossBeresford.txt`. Watch the video below: 
